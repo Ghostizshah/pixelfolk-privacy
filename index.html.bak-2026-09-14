@@ -14,7 +14,7 @@
 </head>
 <body>
 <h1>Pixelfolk Farm — Privacy Policy</h1>
-<p class="meta">Effective date: 14 September 2026 · App: Pixelfolk Farm (Android)
+<p class="meta">Effective date: 12 August 2026 · App: Pixelfolk Farm (Android)
 · Package: <code>com.ghostizshah.pixelfolkfarm</code></p>
 
 <h2>The short version</h2>
@@ -29,13 +29,8 @@ tracking of any kind.</p>
 
 <h2>Your save game</h2>
 <p>Your farm's progress is saved only on your own device, in the app's
-private storage. We have no server and the app has no network access, so we
-cannot see it or retrieve it. Uninstalling the app deletes it.</p>
-<p>The game includes a <strong>Copy Save Code</strong> button, which puts a
-code representing your save on your device's clipboard so you can move a farm
-to another device yourself. That code goes only where you paste it &mdash; it is
-never sent to us. As with anything you copy, other apps on your device may be
-able to read the clipboard.</p>
+private storage. It never leaves your device, and we cannot see it.
+Uninstalling the app deletes it.</p>
 
 <h2>Permissions</h2>
 <p>The app requests no special permissions. It does not access your
