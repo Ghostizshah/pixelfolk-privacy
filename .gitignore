@@ -1,0 +1,12 @@
+# Editor and rollback copies. This repo is PUBLIC (GitHub Pages needs public on
+# the free plan) and everything in it is served: index.html.bak-2026-09-14 was
+# reachable at
+#   https://ghostizshah.github.io/pixelfolk-privacy/index.html.bak-2026-09-14
+# and still carried the personal contact address that 8e19994 had just replaced
+# with the dedicated pixelfolk.games one. Swapping the address in index.html
+# achieved little while the old copy sat one URL away.
+#
+# Same rule as requiem-hub's .gitignore, for the same reason: a rollback copy in
+# a public repo is published, not archived. Keep backups outside the repo.
+*.bak
+*.bak-*
